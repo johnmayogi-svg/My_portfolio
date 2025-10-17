@@ -8,7 +8,7 @@ Data cleaning and preprocessing of weather datasets
 Detection of outliers to identify unusual weather conditions
 Visualization of temperature, pressure, and humidity trends
 Forecasting future weather using regression and predictive modeling
-# Tools used: 
+Tools used: 
 Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn
 
 # [Project2; FAKESTORE DATA ANALYSIS] (https://github.com/johnmayogi-svg/mmjportifolio/tree/main)
@@ -20,5 +20,5 @@ Data Cleaning & Preparation: Handling missing values, formatting prices, and cat
 Exploratory Data Analysis (EDA): Visualizing trends in pricing, product categories, and customer ratings using Matplotlib and Seaborn.
 Machine Learning Prediction: Building and evaluating a model to predict product prices based on product features such as category, rating, and description.
 Data Storage: Saving processed data to a CSV file for further use and reproducibility.
-# Tools used: 
+Tools used: 
 Python, Pandas, NumPy, BeautifulSoup, Matplotlib, Seaborn, Scikit-learn
