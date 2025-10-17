@@ -1,6 +1,6 @@
 # **My_portfolio**
 
-# [project1; Weather data analysis with python] (https://github.com/johnmayogi-svg/Data_analysis_python1/tree/main)
+# [project1; Weather data analysis with python] (https://github.com/johnmayogi-svg/Data_analysis_python1/blob/main/Data_analysis_weather.ipynb)
  Weather Data Analysis with Python
  -This is my first data analysis project using Python, focused on exploring and understanding weather patterns.
  -The project includes:
