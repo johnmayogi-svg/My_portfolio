@@ -1,6 +1,6 @@
 # **My_portfolio**
 
-# project1; Weather data analysis with python
+# [project1; Weather data analysis with python] (https://github.com/johnmayogi-svg/Data_analysis_python1/tree/main)
 Weather Data Analysis with Python
 This is my first data analysis project using Python, focused on exploring and understanding weather patterns.
 The project includes:
@@ -10,4 +10,4 @@ Visualization of temperature, pressure, and humidity trends
 Forecasting future weather using regression and predictive modeling
 # Tools used: 
 Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn
-View the project, ** https://github.com/johnmayogi-svg/Data_analysis_python1/tree/main**
+View the project, 
