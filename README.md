@@ -11,7 +11,7 @@
 - Tools used: 
  - Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn
 
-# [Project2; FAKESTORE DATA ANALYSIS] (https://github.com/johnmayogi-svg/mmjportifolio/tree/main)
+# [Project2; FAKESTORE DATA ANALYSIS] (https://github.com/johnmayogi-svg/mmjportifolio/blob/main/Fakestore_Analysis.ipynb))
 FakeStore Data Analysis and Price Prediction Project
 - This project focuses on performing end-to-end data analysis using data extracted from the FakeStore API
  - The main objectives of the project include:
