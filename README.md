@@ -10,4 +10,3 @@ Visualization of temperature, pressure, and humidity trends
 Forecasting future weather using regression and predictive modeling
 # Tools used: 
 Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn
-View the project, 
