@@ -24,7 +24,8 @@ FakeStore Data Analysis and Price Prediction Project
 Python, Pandas, NumPy, BeautifulSoup, Matplotlib, Seaborn, Scikit-learn
 
 # EXCEL PROJECTS
-# [Project3; SALES DARSHBOARD FOR YEAR 2023,2024,2025] (https://1drv.ms/x/c/37a7a44d990e533b/EcLciiavZXZKg0-gPlJ48mgBJIrBXcfU3Z6eLHXZLVrigg?e=oq7CFo)
+# Project3; SALES DARSHBOARD FOR YEAR 2023,2024,2025 
+[![Sales Dashboard preview](https://github.com/user-attachments/assets/28332976-385e-48d5-a37c-0468c75ab538)](https://1drv.ms/x/c/37a7a44d990e533b/EcLciiavZXZKg0-gPlJ48mgBJIrBXcfU3Z6eLHXZLVrigg?e=oq7CFo)
 -Sales Dashboard for 2023–2025
 -This Excel-based sales dashboard offers a comprehensive view of sales performance across three consecutive years. Designed to facilitate data-driven decision-making, it provides insights into sales trends, product performance, and regional sales distribution.
 - Key Features:
@@ -34,5 +35,13 @@ Python, Pandas, NumPy, BeautifulSoup, Matplotlib, Seaborn, Scikit-learn
  - Data Integrity: Ensure accuracy with automated calculations and data validation techniques.
    - <img width="944" height="387" alt="image" src="https://github.com/user-attachments/assets/28332976-385e-48d5-a37c-0468c75ab538" />
 
+# Project4: Sales Dashboard for Category and Availability
+[![Sales Dashboard Preview](https://github.com/user-attachments/assets/0d6cfb49-b709-4193-bb99-65e525680315)](https://1drv.ms/x/c/37a7a44d990e533b/EVXK-VGTYxtIlV-rjc8jGC8BdCHeaV6NiB6DUI5RmQDBBQ?e=tBsJGD)
+This project showcases a **Sales Dashboard** that tracks:
+- **Category-wise sales** – Analyze which product categories are performing best.  
+- **Product availability** – Monitor stock levels across categories.  
+- **Interactive insights** – Filter by category and availability to gain deeper insights.  
+Click the image above to view the **live dashboard** hosted on **OneDrive**.  
+It’s built in **Excel** and designed for easy visualization of sales data trends.
 
 https://1drv.ms/x/c/37a7a44d990e533b/EVXK-VGTYxtIlV-rjc8jGC8BdCHeaV6NiB6DUI5RmQDBBQ?e=VQCEvZ
