@@ -22,3 +22,6 @@ FakeStore Data Analysis and Price Prediction Project
  - Data Storage: Saving processed data to a CSV file for further use and reproducibility.
 -Tools used: 
 Python, Pandas, NumPy, BeautifulSoup, Matplotlib, Seaborn, Scikit-learn
+
+
+https://1drv.ms/x/c/37a7a44d990e533b/EVXK-VGTYxtIlV-rjc8jGC8BdCHeaV6NiB6DUI5RmQDBBQ?e=VQCEvZ
