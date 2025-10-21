@@ -1,5 +1,5 @@
 # **My_portfolio**
-# PYTHON PROJECTS
+# PROJECTS LIST
 # [project1; Weather data analysis with python] (https://github.com/johnmayogi-svg/Data_analysis_python1/blob/main/Data_analysis_weather.ipynb)
  Weather Data Analysis with Python
  -This is my first data analysis project using Python, focused on exploring and understanding weather patterns.
@@ -23,7 +23,6 @@ FakeStore Data Analysis and Price Prediction Project
 -Tools used: 
 Python, Pandas, NumPy, BeautifulSoup, Matplotlib, Seaborn, Scikit-learn
 
-# EXCEL PROJECTS
 # [Project3; SALES DARSHBOARD FOR YEAR 2023,2024,2025] (https://1drv.ms/x/c/37a7a44d990e533b/EcLciiavZXZKg0-gPlJ48mgBJIrBXcfU3Z6eLHXZLVrigg?e=oq7CFo)
 -Sales Dashboard for 2023–2025
 -This Excel-based sales dashboard offers a comprehensive view of sales performance across three consecutive years. Designed to facilitate data-driven decision-making, it provides insights into sales trends, product performance, and regional sales distribution.
@@ -50,8 +49,6 @@ This project presents a **data visualization dashboard** designed to analyze and
 -  **Interactive Filters:** Explore dynamic insights by combining multiple filters.  
 <img width="878" height="434" alt="image" src="https://github.com/user-attachments/assets/1d0668fd-3b35-4435-bc8d-6d2217a01ea9" />
 
-# OTHER PROJECTS
 # [Project6; emarket project] 
-- The below link will direct to the github project
-  (https://github.com/johnmayogi-svg/Emarket_)
+- The below link will direct to the github project (https://github.com/johnmayogi-svg/Emarket_)
 - View the site deployed by render, (https://emarket-2-lrxz.onrender.com/)
