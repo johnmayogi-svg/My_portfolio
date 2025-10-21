@@ -49,3 +49,8 @@ This project presents a **data visualization dashboard** designed to analyze and
 -  **Age Groups:** Understand how survival rates change with age distribution.  
 -  **Interactive Filters:** Explore dynamic insights by combining multiple filters.  
 <img width="878" height="434" alt="image" src="https://github.com/user-attachments/assets/1d0668fd-3b35-4435-bc8d-6d2217a01ea9" />
+
+#[Project6; emarket project] 
+The below link will direct to the github project
+- (https://github.com/johnmayogi-svg/Emarket_)
+- View the site deployed by render, (https://emarket-2-lrxz.onrender.com/)
