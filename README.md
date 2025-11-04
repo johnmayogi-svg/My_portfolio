@@ -52,3 +52,11 @@ This project presents a **data visualization dashboard** designed to analyze and
 # [Project6; emarket project] 
 - View the site deployed by render, https://emarket-2-lrxz.onrender.com/
 - view on github, https://github.com/johnmayogi-svg/Emarket_
+
+#[Project7; World population data scrapping and data analytics]
+- TASK1; Web scrapping, https://github.com/johnmayogi-svg/codealpha_tasks/blob/main/Task1/Task1.ipynb
+   - Excel data scrapped, https://github.com/johnmayogi-svg/codealpha_tasks/blob/main/Task1/population_data.csv
+- TASK2 Data analytics, https://github.com/johnmayogi-svg/codealpha_tasks/blob/main/Task2/task%202.ipynb
+   - Excel data cleaned after analysis, https://github.com/johnmayogi-svg/codealpha_tasks/blob/main/Task2/population_cleaned_data.csv
+
+
