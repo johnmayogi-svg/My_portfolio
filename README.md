@@ -59,8 +59,8 @@ This project presents a **data visualization dashboard** designed to analyze and
 - View on github, https://github.com/johnmayogi-svg/photoalbum_project1
   
 **3. Data analyzer model**
--View the project deployed by render, https://data-analyzer-model.onrender.com
--View and clone the project on github, https://github.com/johnmayogi-svg/data_analyzer_model
+- View the project deployed by render, https://data-analyzer-model.onrender.com
+- View and clone the project on github, https://github.com/johnmayogi-svg/data_analyzer_model
 
 # [Project7; World population data scrapping and data analytics]
 - TASK1; Web scrapping, https://github.com/johnmayogi-svg/codealpha_tasks/blob/main/Task1/Task1.ipynb
