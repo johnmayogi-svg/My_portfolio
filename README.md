@@ -51,11 +51,11 @@ This project presents a **data visualization dashboard** designed to analyze and
 
 # [Project6; Systems and websites] 
 **1. Emarket system**
-- View the emarket system deployed by render, https://emarket-2-lrxz.onrender.com/
+- View the emarket system deployed by render, https://emarket-2-lrxz.onrender.com
 - view on github, https://github.com/johnmayogi-svg/Emarket_
   
 **2. Photo album project**
-- View the photo album app online, https://photoalbum1-k20c.onrender.com/
+- View the photo album app online, https://photoalbum1-k20c.onrender.com
 - View on github, https://github.com/johnmayogi-svg/photoalbum_project1
   
 **3. Data analyzer model**
